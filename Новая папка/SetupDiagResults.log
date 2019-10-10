@@ -1,0 +1,56 @@
+
+Matching Profile found: FindSuccessfulUpgrade - 8A0824C8-A56D-4C55-95A0-22751AB62F3E
+System Information:
+	Machine Name = DESKTOP-U8DK8IJ
+	Manufacturer = ASUSTeK COMPUTER INC.
+	Model = X550VXK
+	HostOSArchitecture = x64
+	FirmwareType = PCAT
+	BiosReleaseDate = 20170119000000.000000+000
+	BiosVendor = BIOS Date: 01/19/17 19:29:48 Ver: 05.0000C
+	BiosVersion = X550VXK.302
+	HostOSVersion = 10.0.16299
+	HostOSBuildString = 16299.431.amd64fre.rs3_release_svc_escrow.180502-1908
+	TargetOSBuildString = 10.0.17134.1 (rs4_release.180410-1804)
+	HostOSLanguageId = 1049
+	HostOSEdition = Professional
+	RegisteredAV = Windows Defender,Windows Defender,Windows Defender,Windows Defender,Windows Defender,Windows Defender,Windows Defender,Windows Defender,
+	FilterDrivers = WdFilter,wcifs,luafv,Wof,FileInfo,
+	UpgradeStartTime = 23.06.2018 14:51:11
+	FinalizeStartTime = 23.06.2018 15:47:46
+	UpgradeEndTime = 20.07.2018 17:34:26
+	UpgradeElapsedTime = 27.02:43:15
+	CV = zYbtpBCr60S4Em+K
+	ReportId = 0AA5E289-E8CB-4F08-ACEB-971D71933A65
+
+
+SetupDiag reports successful upgrade found.
+This appears to be a successful update as the last operation was: OOBEBoot and the result was: success
+
+Matching Profile found: FindSuccessfulUpgrade - 8A0824C8-A56D-4C55-95A0-22751AB62F3E
+System Information:
+	Machine Name = DESKTOP-U8DK8IJ
+	Manufacturer = ASUSTeK COMPUTER INC.
+	Model = X550VXK
+	HostOSArchitecture = x64
+	FirmwareType = PCAT
+	BiosReleaseDate = 20170119000000.000000+000
+	BiosVendor = BIOS Date: 01/19/17 19:29:48 Ver: 05.0000C
+	BiosVersion = X550VXK.302
+	HostOSVersion = 10.0.16299
+	HostOSBuildString = 16299.431.amd64fre.rs3_release_svc_escrow.180502-1908
+	TargetOSBuildString = 10.0.17134.1 (rs4_release.180410-1804)
+	HostOSLanguageId = 1049
+	HostOSEdition = Professional
+	RegisteredAV = Windows Defender,Windows Defender,Windows Defender,Windows Defender,Windows Defender,Windows Defender,Windows Defender,Windows Defender,
+	FilterDrivers = WdFilter,wcifs,luafv,Wof,FileInfo,
+	UpgradeStartTime = 23.06.2018 14:51:11
+	FinalizeStartTime = 23.06.2018 15:47:46
+	UpgradeEndTime = 20.07.2018 17:34:26
+	UpgradeElapsedTime = 27.02:43:15
+	CV = zYbtpBCr60S4Em+K
+	ReportId = 0AA5E289-E8CB-4F08-ACEB-971D71933A65
+
+
+SetupDiag reports successful upgrade found.
+This appears to be a successful update as the last operation was: OOBEBoot and the result was: success
